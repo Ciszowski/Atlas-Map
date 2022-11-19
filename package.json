@@ -10,7 +10,7 @@
     "google-maps-react": "^2.0.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "^2.1.5",
+    "react-scripts": "^5.0.1",
     "sweetalert2": "^8.2.4"
   },
   "scripts": {
